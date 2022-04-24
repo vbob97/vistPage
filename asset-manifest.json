@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vistPage/static/css/main.52279545.css",
-    "main.js": "/vistPage/static/js/main.c70bfe86.js",
+    "main.css": "/vistPage/static/css/main.6abee3ce.css",
+    "main.js": "/vistPage/static/js/main.bd5c36da.js",
     "static/media/profile.PNG": "/vistPage/static/media/profile.26d2fb8be1f9af79d347.PNG",
     "index.html": "/vistPage/index.html",
-    "main.52279545.css.map": "/vistPage/static/css/main.52279545.css.map",
-    "main.c70bfe86.js.map": "/vistPage/static/js/main.c70bfe86.js.map"
+    "main.6abee3ce.css.map": "/vistPage/static/css/main.6abee3ce.css.map",
+    "main.bd5c36da.js.map": "/vistPage/static/js/main.bd5c36da.js.map"
   },
   "entrypoints": [
-    "static/css/main.52279545.css",
-    "static/js/main.c70bfe86.js"
+    "static/css/main.6abee3ce.css",
+    "static/js/main.bd5c36da.js"
   ]
 }
